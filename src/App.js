@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Amplify demo 
+          Amplify demo user-1 branch
         </a>
       </header>
     </div>
